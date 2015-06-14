@@ -1,0 +1,55 @@
+*/*\ This is Where all the styles go*/*\
+
+.HeaderText {
+    font-family: "'Oleo Script', cursive", 'Quicksand', sans-serif;
+    font-size: 350%;
+}
+        
+.HeaderBox {
+    margin: 0%; 
+}
+        
+#BackgroundColor {
+    background-color: #EDEBDD;
+}
+        
+.FooterBox {
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:30px;
+    width:100%;
+}
+
+.iconSize {
+    font-size: 250%;
+}
+.Buttons {
+    display: inline-block;
+    padding: 5px 10px 6px;
+    text-decoration: none;
+    font-weight: bold;
+    line-height: 1;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-box-shadow: 0 1px 3px #999;
+    -webkit-box-shadow: 0 1px 3px #999;
+    text-shadow: 0 -1px 1px #222;
+    border-bottom: 1px solid #222;
+    position: relative;
+    cursor: pointer;
+}
+
+.bluez {
+    background-color: #00BFDC;
+}
+
+.turquoise {
+    background-color: #4CD9BE;
+}
+
+.boxSize {
+    width: 123%;
+    line-height:40px;
+    display: table;
+}
